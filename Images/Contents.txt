@@ -1,0 +1,19 @@
+f1
+
+“EB Stream is an innovative video call feature designed to enhance interactive learning. Teachers can connect with students in real-time, share screens, and engage through live discussions, making remote education effective and interactive.”
+
+f2
+
+“EB Files is a seamless file-sharing feature that allows teachers to upload and display files to students in real-time. This tool enhances classroom interaction by making resource sharing efficient and accessible.”
+
+f3
+
+“School Newses is a dedicated platform for sharing school resources and updates. It keeps students, teachers, and parents informed with the latest news and essential information.”
+
+f4
+
+“EB Chat enables seamless chatting and allows students to ask questions directly to their teachers. This feature enhances communication and supports interactive learning.”
+
+f5
+
+“EB Genie is an AI chatbot designed to assist students with their learning needs. It provides instant responses to questions, helping to create a supportive and interactive educational environment.”

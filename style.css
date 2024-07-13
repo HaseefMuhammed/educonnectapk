@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Courgette&family=Delicious+Handrawn&family=Jersey+10&family=Noto+Kufi+Arabic:wght@100..900&family=Noto+Sans+Malayalam:wght@100..900&family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Rubik+Scribble&family=Rubik:ital,wght@0,300..900;1,300..900&family=Shadows+Into+Light&family=Workbench&display=swap');
+.logo{
+  width: 3em;
+}
+.body{
+  scroll-behavior: smooth;
+}
+.bg-1{
+  background-image: url("Images/BG.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.title{
+  font-family: "Jersey 10", sans-serif;
+  font-weight: bolder;
+  font-style: normal;
+    color: white;
+    font-size: 6em;
+    text-transform: uppercase;
+}.icon{
+  width: 100%;
+  background-color: white;
+}
+.sub-ttl{
+  font-family: "Shadows Into Light", cursive;
+  font-weight: bolder;
+  font-style: normal;
+  color: white;
+  font-size: 2em;
+}
+#nav-act{
+  color: rgb(84, 5, 232);
+  letter-spacing: 2px;
+  text-decoration: dashed;
+  
+}
+.exp{
+  font-family: "Shadows Into Light", cursive;
+  font-weight: bolder;
+  font-style: normal;
+  color: black;
+  font-size: 2em;
+  letter-spacing: 3px;
+
+}
+.preview{
+  width: 100%;
+  
+}
+
+.feature{
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bolder;
+  font-style: normal;
+  font-size: 4em;
+  text-transform: uppercase;
+}
+.fts{
+  background-image: url("Images/bg\ ai.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.apk-names{
+  font-weight: bolder;
+}
